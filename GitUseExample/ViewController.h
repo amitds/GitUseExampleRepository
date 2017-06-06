@@ -12,7 +12,7 @@
     IBOutlet UILabel *lblTitle;
     IBOutlet UILabel *lblDescription;
 }
-
+// comment on Hirendra's mac
 -(IBAction)clickTheButton:(id)sender;
 
 @end
