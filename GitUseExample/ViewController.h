@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController {
     IBOutlet UILabel *lblTitle;
+    IBOutlet UILabel *lblDescription;
 }
 
 -(IBAction)clickTheButton:(id)sender;
